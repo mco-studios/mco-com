@@ -2,4 +2,10 @@
     width: 100%;
     margin: auto;
     text-align: center;
+    
+}
+
+.top h1 {
+    font-family: aladin, sans-serif;
+    font-size: 5em;
 }
