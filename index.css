@@ -10,6 +10,19 @@
     font-size: 5em;
 }
 
+.middle {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.middle h3 {
+    font-family: aclonica, sans-serif;
+    font-size: 1.7em;
+}
+
 footer {
     width: 100%;
     margin: auto;
